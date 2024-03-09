@@ -1,0 +1,54 @@
+Don't put home adress and don't put phone number just email 
+
+1.Homepage:
+
+2.Introduction: Briefly introduce yourself and provide an overview of what visitors can expect on your website.Welcome message or tagline.
+	About Me:
+	Detailed information about yourself, including your background, education, skills, and interests.A professional photo of yourself.
+		Hi, my name is Aziel Tornea and I'm 19 years old turning 20 on May 20 I live in the Philippines, Camarin Caloocan City. 
+I am currently studying second-year college at N.U Fairview as BSIT-MI the skills I have is I can type 75-85 words per minute in Medium Text Level. I have experience coding in languages such as Python and Java but not at an advanced level, my skills in programming aren't that much 
+I treat myself as a beginner because I still studying at school but I like to learn more. I really love music, music makes my life easier and more lively. I can play Piano and Guitar and singing is my hobby. 
+I also find interesting the people who are great at singing, dancing, and any other things that they are great I also love playing basketball but I also know how to play table tennis, and volleyball and I used to play Badminton for my school way back in my elementary and high school days. 
+That's the thing that makes my mood turn up, but the best thing for me is to spend time with my best friend Aikee, he always makes me happy. And also I believe me in saying that "Failure teaches me."  
+	  
+
+3.Resume/CV:
+	Your professional experience, education, skills, and achievements.A downloadable PDF version of your resume.
+
+4.Portfolio:
+	Showcase your work, projects, or any creative endeavors.Include images, descriptions, and links to relevant work.
+
+5.Blog/Articles:
+	Share your thoughts, insights, or expertise on specific topics.Categorize and tag your articles for easy navigation.
+
+6.Contact Information:
+	Provide ways for visitors to get in touch with you.Include a contact form or links to your social media profiles.
+
+7.Testimonials/Recommendations:
+	If applicable, include testimonials or recommendations from colleagues, clients, or others who can vouch for your skills and work.
+
+8.Skills:
+	Highlight your key skills and areas of expertise.
+
+9.Services:
+	If you offer services, describe them and provide information on how potential clients can engage with you.
+
+10.Achievements and Certifications:
+	List any relevant awards, certifications, or honors you have received.
+
+11.FAQ Section:
+	Anticipate common questions visitors might have and provide answers.
+
+12.Links to Social Media:
+	Include links to your professional social media profiles, such as LinkedIn, Twitter, or GitHub.
+		LinkedIn - https://www.linkedin.com/in/aziel-tornea-149461252/
+                GitHub - https://github.com/torneaaziel7
+                
+
+17.Accessibility:
+	Ensure that your website is accessible to users with disabilities.
+
+18.Responsive Design:
+	Optimize your website for various devices, ensuring it looks good and functions well on desktops, tablets, and mobile phones.
+
+ 
